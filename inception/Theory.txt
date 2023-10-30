@@ -1,0 +1,38 @@
+Q. What is Emmet? 
+     Emmet is a powerful plugin for text editorsand IDE's.
+     It will allows developers to write more with less typing. 
+
+Q. Difference between library and framework?
+  library - it is a collection of package that performs specific operations.
+  framework - is a basic flow and architecture of an application.
+
+Q. What is CDN? ANd use of CDN?
+   CDN is a content delivery network. It is a geographyical distributed group of servers that work together to provide fast delivery of internet content.
+
+Q. What is Crossorigin in script tag ?
+  -Crossorigin is a attribute used to share the resources from one domain to other domain.
+  - It is used to handle the CROS request that checks wether it is saft to allow for sharing the resources from other domains.
+     
+     <script crossorigin src=" " > </script>
+
+Q. what is Difference between React and React-DOM?
+
+React- React is a javascript library focused on building interface. 
+     - It provides a way to create reusable UI components &  manage  their state and efficiency.
+     - React Enables developers to build complex interactive UI's by creating components based architecture. 
+     - It allows developers to create UI elements & manage their state independently.
+
+React-DOM - It is a package that provides specific method for rendering react components in the DOM.
+          - It is bridge between React and Dom in browser.
+          - It is neccessary functionality to render react components into the browser.
+
+Q. what is Difference between react.developent.js and react.production.js files via CDN?
+    - react.development.js - is stage of an application before it's made public.
+    - react.production.js - It is the term used for the same application when it's made public.
+   
+
+Q. What is different between async and defer?
+   - Async 
+       When HTML file started to run it will featch all the JS  files first & the it will not run line by line.
+   -Defer 
+      When HTML file start to run and featch the JS files but it will run the it after 
